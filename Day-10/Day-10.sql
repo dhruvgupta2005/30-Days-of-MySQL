@@ -84,4 +84,4 @@ WHERE course LIKE 'B%';
 -- Display student names ending with a.
 SELECT student_name
 FROM students
-WHERE student_name LIKE '%a';
+WHERE student_name LIKE '%a';git status
